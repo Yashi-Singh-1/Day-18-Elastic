@@ -67,7 +67,7 @@ Day-18-Elastic/
 <ol>
     <li>Fork the repository on GitHub.</li>
     <li>Clone your fork locally:</li>
-    <pre><code>git clone https://github.com/YOUR-USERNAME/Day-18-Elastic.git</code></pre>
+    <pre><code>git clone https://github.com/Yashi-Singh-1/Day-18-Elastic.git</code></pre>
     <li>Create a new branch:</li>
     <pre><code>git checkout -b feature/your-feature-name</code></pre>
     <li>Make your changes and commit them:</li>
@@ -77,7 +77,6 @@ Day-18-Elastic/
     <li>Open a pull request in the original repository and describe your changes.</li>
 </ol>
 <p>Thank you for your contributions!</p>
-
 
 <h2 id="credits">Credits</h2>
 <p>This project was inspired by the <a href="https://100dayscss.com/days/18/">100 Days CSS Challenge</a>.</p>
